@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/foodNavi.jpg',
+            image: 'assets/images/foodNavi.png',
             link: 'https://github.com/SHU-Webbb/TeamProject_FoodNavi.git',
             title: 'FoodNavi',
             technologies: ['JAVA', 'Spring', 'Python', 'JavaScript', 'HTML', 'CSS', 'Oracle'],
@@ -19,7 +19,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'web']
         },
         {
-            image: 'assets/images/campNavi.jpg',
+            image: 'assets/images/campNavi.png',
             link: '',
             title: 'CampNavi',
             technologies: ['JAVA', 'Spring', 'Python', 'JavaScript', 'HTML', 'CSS', 'Oracle'],
