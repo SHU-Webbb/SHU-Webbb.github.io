@@ -224,12 +224,15 @@ img {
 }
 
 .paragraph-text {
-   font-family: 'Spoqa Han Sans', sans-serif;
+  font-family: 'Spoqa Han Sans', sans-serif;
   font-size: 1rem;
   margin: 30px auto;
   color: #404040;
-  line-height: 1.8; 
+  line-height: 1.8;
+  max-width: 800px; /* 예시로 800px로 설정 */
+  word-wrap: break-word; /* 글자가 단어 단위로 줄바꿈되도록 설정 */
 }
+
 
 .paragraph-text-normal {
    font-family: 'Spoqa Han Sans', sans-serif;
