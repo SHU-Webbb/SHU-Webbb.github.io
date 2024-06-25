@@ -207,8 +207,8 @@ img {
 
 .section-wrapper:nth-child(odd) {
   background: url(../images/background.png);
-   background-repeat: no-repeat; /* 반복하지 않음 */
-bvbackground-size: cover; /* 요소에 맞게 늘리기 */
+  background-repeat: no-repeat; /* 반복하지 않음 */
+  background-size: cover; /* 요소에 맞게 늘리기 */
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
@@ -284,7 +284,8 @@ bvbackground-size: cover; /* 요소에 맞게 늘리기 */
    font-family: 'Spoqa Han Sans', sans-serif;
 
   background: url(../images/background.png);
-  background-repeat: repeat;
+  background-repeat: no-repeat; /* 반복하지 않음 */
+  background-size: cover; /* 요소에 맞게 늘리기 */
   background-attachment: fixed;
 }
 
