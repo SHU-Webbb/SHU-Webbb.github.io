@@ -207,8 +207,8 @@ img {
 
 .section-wrapper:nth-child(odd) {
   background: url(../images/background.png);
-  background-repeat: no-repeat; /* 반복하지 않음 */
   background-size: cover; /* 요소에 맞게 늘리기 */
+  
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
@@ -284,9 +284,7 @@ img {
    font-family: 'Spoqa Han Sans', sans-serif;
 
   background: url(../images/background.png);
-  background-repeat: no-repeat; /* 반복하지 않음 */
   background-size: cover; /* 요소에 맞게 늘리기 */
-  background-attachment: fixed;
 }
 
 .footer-text a {
@@ -426,7 +424,6 @@ img {
 
 #nav {
   background: url(../images/background.png);
-  background-repeat: no-repeat; /* 반복하지 않음 */
   background-size: cover; /* 요소에 맞게 늘리기 */
 }
 
