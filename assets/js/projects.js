@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/foodNavi.png',
-            link: 'https://github.com/SHU-Webbb/TeamProject_FoodNavi.git',
+            link: 'https://shu-webbb.github.io/TeamProject_FoodNavi/',
             title: 'FoodNavi',
             technologies: ['JAVA', 'Spring', 'Python', 'JavaScript', 'HTML', 'CSS', 'Oracle'],
             description: "건강한 한끼식사를 위한 신단추천 사이트",
