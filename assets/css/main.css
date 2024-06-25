@@ -1,6 +1,6 @@
 body {
   min-width: 360px;
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   font-size: 16px;
 }
 
@@ -36,7 +36,7 @@ img {
   transition: color ease-in-out 0.3s;
   font-size: 56px;
   font-size: 3.5rem;
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   font-weight: bold;
 }
 
@@ -80,7 +80,7 @@ img {
 }
 
 .head-punchline {
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   text-align: center;
   color: #fff;
   margin-top: 10px;
@@ -193,7 +193,7 @@ img {
 .section-heading {
   text-align: center;
   margin-bottom: 80px;
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   font-size: 40px;
   font-size: 2.5rem;
   color: #222;
@@ -201,7 +201,7 @@ img {
 }
 
 .nav-links {
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   font-weight: bold;
 }
 
@@ -223,7 +223,7 @@ img {
 }
 
 .paragraph-text {
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   font-size: 20.8px;
   font-size: 1.3rem;
   margin: 30px auto;
@@ -231,12 +231,12 @@ img {
 }
 
 .paragraph-text-normal {
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   color: #404040;
 }
 
 .pt-sans-font {
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
 }
 
 .skill-grid-item {
@@ -280,7 +280,7 @@ img {
           align-items: center;
   min-height: 35px;
   color: #fff;
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
 
   background: url(../images/background.png);
   background-repeat: repeat;
@@ -308,7 +308,7 @@ img {
   font-weight: bold;
   font-size: 20px;
   font-size: 1.25rem;
-  font-family: 'Noto Sans KR', sans-serif;
+   font-family: 'Spoqa Han Sans', sans-serif;
   margin: 10px 0 20px;
   display: -webkit-box;
   display: -ms-flexbox;
