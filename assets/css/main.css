@@ -224,8 +224,7 @@ img {
 
 .paragraph-text {
    font-family: 'Spoqa Han Sans', sans-serif;
-  font-size: 20.8px;
-  font-size: 1.3rem;
+  font-size: 0.8rem;
   margin: 30px auto;
   color: #404040;
 }
