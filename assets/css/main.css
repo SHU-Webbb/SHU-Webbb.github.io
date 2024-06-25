@@ -462,12 +462,17 @@ a {
   grid-row-gap: 10px;
   width: 100%;
 }
+.card__meta {
+    display: flex;
+    flex-wrap: wrap; /* 요소들이 넘칠 경우 줄바꿈 */
+    gap: 5px; /* 요소들 사이의 간격 */
+}
 
 .project-technology {
   border: 1px solid #222;
   border-radius: 2px;
   margin: 0 5px;
-  padding: 3px 5px;
+  margin: 2px; /* 여백 조정 */
 }
 
 .project-technology:first-child {
