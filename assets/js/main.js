@@ -24,7 +24,7 @@ function blog_posts() {
     let posts = [
         {
             url: '',
-            title: 'To be..',
+            title: 'Starting soon',
         },
        
     ];
@@ -61,7 +61,7 @@ function blog_posts() {
 
     // for the more posts link
     let post_template = `
-    <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
+    <div class="blog-post more-blogs" onclick="blog_link_click('https://github.com/SHU-Webbb');">
 
         <div class="blog-link">
 
