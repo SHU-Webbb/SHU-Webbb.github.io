@@ -20,7 +20,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/campNavi.png',
-            link: '',
+            link: 'https://shu-webbb.github.io/TeamProject_CampNavi/',
             title: 'CampNavi',
             technologies: ['JAVA', 'Spring', 'Python', 'JavaScript', 'HTML', 'CSS', 'Oracle'],
             description: "캠핑추천 사이트",
