@@ -10,22 +10,23 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 
     let projects_obj = [
+         {
+            image: 'assets/images/campNavi.png',
+            link: 'https://shu-webbb.github.io/TeamProject_CampNavi/',
+            title: 'CampNavi',
+            technologies: ['JAVA', 'Spring', 'Python', 'JavaScript', 'HTML', 'CSS', 'Oracle'],
+            description: "Surprise Package를 이용한 캠핑장 추천 사이트",
+            categories: ['featured', 'web']
+        },
         {
             image: 'assets/images/foodNavi.png',
             link: 'https://shu-webbb.github.io/TeamProject_FoodNavi/',
             title: 'FoodNavi',
             technologies: ['JAVA', 'Spring', 'Python', 'JavaScript', 'HTML', 'CSS', 'Oracle'],
-            description: "건강한 한끼식사를 위한 신단추천 사이트",
+            description: "머신러닝기반 식단추천 사이트",
             categories: ['featured', 'web']
         },
-        {
-            image: 'assets/images/campNavi.png',
-            link: 'https://shu-webbb.github.io/TeamProject_CampNavi/',
-            title: 'CampNavi',
-            technologies: ['JAVA', 'Spring', 'Python', 'JavaScript', 'HTML', 'CSS', 'Oracle'],
-            description: "캠핑추천 사이트",
-            categories: ['featured', 'web']
-        },
+       
     ]
 
     let projects = [];
