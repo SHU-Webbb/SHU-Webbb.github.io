@@ -225,7 +225,7 @@ img {
 }
 
 .section-wrapper:nth-child(odd) {
-  background: url(../images/background.jpg);
+  background: url(../images/background.png);
   background-size: cover; /* 요소에 맞게 늘리기 */
   
 }
