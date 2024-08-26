@@ -226,7 +226,7 @@ img {
 
 .section-wrapper:nth-child(odd) {
   background: url(../images/background.png);
-  background-size: repeat; 
+  background-size: cover; /* 요소에 맞게 늘리기 */
   
 }
 
@@ -305,8 +305,9 @@ img {
   color: #fff;
    font-family: 'Spoqa Han Sans', sans-serif;
 
-  background: url(../images/background.png);
-  background-size: repeat; 
+  background: url(../images/background.jpg);
+  background-size: cover; /* 요소에 맞게 늘리기 */
+}
 
 .footer-text a {
   color: inherit;
@@ -445,7 +446,7 @@ img {
 
 #nav {
   background: url(../images/background.png);
-  background-size: repeat; 
+  background-size: cover; /* 요소에 맞게 늘리기 */
 }
 
 a {
