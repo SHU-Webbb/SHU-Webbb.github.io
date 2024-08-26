@@ -226,7 +226,7 @@ img {
 
 .section-wrapper:nth-child(odd) {
   background: url(../images/background.png);
-  background-size: repeat;
+  background-size: cover; /* 요소에 맞게 늘리기 */
   
 }
 
@@ -302,14 +302,15 @@ img {
       -ms-flex-align: center;
           align-items: center;
   min-height: 35px;
-  color: black;
+  color: #fff;
    font-family: 'Spoqa Han Sans', sans-serif;
 
-  </*background: url(../images/background);*/>
-  background-size: cover; 
+  background: url(../images/background.png);
+  background-size: cover; /* 요소에 맞게 늘리기 */
+}
 
 .footer-text a {
-  color: black;
+  color: inherit;
 }
 
 .technologies-grid-item {
@@ -402,9 +403,9 @@ img {
 
 .profile-pic {
   border-radius: 50%;
-  width: 130px;
-  height: 130px;
-  border: solid 1.5px white;
+  width: 170px;
+  height: 170px;
+  border: solid 2px white;
 }
 
 .profile-pic:hover {
@@ -445,7 +446,7 @@ img {
 
 #nav {
   background: url(../images/background.png);
-  background-size: repeat;
+  background-size: cover; /* 요소에 맞게 늘리기 */
 }
 
 a {
