@@ -405,7 +405,7 @@ img {
   border-radius: 50%;
   width: 130px;
   height: 160px;
-  border: solid 1px black;
+  border: solid 1px white;
 }
 
 .profile-pic:hover {
@@ -446,7 +446,7 @@ img {
 
 #nav {
   background: url(../images/background.png);
-  background-size: cover; /* 요소에 맞게 늘리기 */
+  background-size: repeat;
 }
 
 a {
