@@ -226,7 +226,7 @@ img {
 
 .section-wrapper:nth-child(odd) {
   background: url(../images/background.png);
-  background-size: repeat; /* 요소에 맞게 늘리기 */
+  background-size: repeat;
   
 }
 
@@ -305,7 +305,7 @@ img {
   color: black;
    font-family: 'Spoqa Han Sans', sans-serif;
 
-  background: url(../images/background);
+  </*background: url(../images/background);*/>
   background-size: cover; 
 
 .footer-text a {
