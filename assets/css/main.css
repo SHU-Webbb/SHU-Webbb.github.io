@@ -302,7 +302,7 @@ img {
       -ms-flex-align: center;
           align-items: center;
   min-height: 35px;
-  color: #fff;
+  color: black;
    font-family: 'Spoqa Han Sans', sans-serif;
 
   background: url(../images/background);
@@ -310,7 +310,7 @@ img {
 }
 
 .footer-text a {
-  color: inherit;
+  color: black;
 }
 
 .technologies-grid-item {
